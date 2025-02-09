@@ -113,7 +113,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Download the demo video](C:\Users\Abru Prasad\Downloads\demo.mp4)
+[Download the demo video](https://drive.google.com/file/d/1zyQDBKx9ODJfbrltH6RaKpATAbwgx0OW/view?usp=drive_link)
 
 *Explain what the video demonstrates*
 
@@ -121,9 +121,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Hanna Sara Prasad]: [frontend]
+- [Ahlam Salim]: [backend]
+- [Esha Fthima]: [backend]
 
 ---
 Made with ❤️ at TinkerHub
