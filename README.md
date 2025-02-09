@@ -2,7 +2,7 @@
 
 
 ## Basic Details
-### Team Name: [HACHER]
+### Team Name: [HACKHER]
 
 
 ### Team Members
