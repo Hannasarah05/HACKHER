@@ -50,75 +50,35 @@ Flask-CORS is used to enable cross-origin resource sharing (CORS) between the ba
 These frameworks and libraries were carefully selected to ensure the Women's Safety Application is lightweight, easy to use, and scalable, providing fast and reliable emergency alerts and location tracking for the user.
 
 
-
-
-]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
 # Installation
-[commands]
+pip install flask flask-cors pyqt6 twilio geocoder requests
+
 
 # Run
-[commands]
+python app.py
 
 ### Project Documentation
-For Software:
+For Software:powerpoint presentation
 
 # Screenshots (Add at least 3)
-![Screenshot1![image](https://github.com/user-attachments/assets/d1fdc0b8-670f-467c-b749-58aa3506e87b)
-])
-*Add caption explaining what this shows*
+[image](https://github.com/user-attachments/assets/d1fdc0b8-670f-467c-b749-58aa3506e87b)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
 
 
 ![Components](![image](https://github.com/user-attachments/assets/1edafaec-b46e-4748-9fd8-dc15e5b947bc)
 )
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
 ![Final](![image](https://github.com/user-attachments/assets/c24ca524-37c7-4192-9ce6-db236853f347)
 )
-*Explain the final build
 
 ### Project Demo
 # Video
 [Download the demo video](https://drive.google.com/file/d/1zyQDBKx9ODJfbrltH6RaKpATAbwgx0OW/view?usp=drive_link)
 
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Hanna Sara Prasad]: [frontend]
