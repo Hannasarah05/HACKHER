@@ -11,7 +11,7 @@
 - Member 3: [ESHA FAHIMA] - [ILAHIA COLLEGE OF ENGINEERING & TECHNOLOGY]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://hannasarah05.github.io/women-safety-portal/
 
 ### Project Description
 The Women's Safety Application is an intuitive and reliable mobile and desktop app designed to provide a quick and effective emergency response for women. In dangerous or distressing situations, users can easily trigger alerts to notify their emergency contacts and authorities. The app instantly shares the user's real-time location and sends an SMS and email alert, ensuring help is on the way. With features like emergency alerts, location sharing, and direct communication with safety contacts, this app is an essential tool for personal safety and peace of mind.
